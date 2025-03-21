@@ -59,7 +59,7 @@ Follow these steps to set up the project:
 
 4. Build the project to ensure all dependencies are resolved.
 
-5. Follow [EK-1](https://github.com/cemlevent54/FestoRobot-Control-System/blob/main/documentations/EK_1_Gelistirme_Ortaminin_Olusturulmasi_v1_0.pdf) for detailed setup instructions, including testing the simulator integration.
+5. Follow [EK-1]((https://github.com/furkangemici/Festo_Robot-Control-System/blob/main/Documentations/EK_1_Gelistirme_Ortaminin_Olusturulmasi_v1_0.pdf)) for detailed setup instructions, including testing the simulator integration.
 
 ---
 

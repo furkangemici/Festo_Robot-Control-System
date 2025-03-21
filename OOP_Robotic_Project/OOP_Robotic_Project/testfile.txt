@@ -1,0 +1,3 @@
+First line
+Second lineNew line
+Stream operator test
